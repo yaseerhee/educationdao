@@ -1,0 +1,503 @@
+{
+    "pageProps": {
+        "pageNum": 1,
+        "community": "",
+        "category": "",
+        "initialState": {
+            "notes": {
+                "initialLoad": true,
+                "saving": false,
+                "paginationNoteSize": 6,
+                "currentNoteId": null,
+                "allNotes": [
+                    {
+                        "highlightsSupply": "1000",
+                        "publishedAt": 1716249600000,
+                        "published": true,
+                        "title": "Understanding Ethereum Network Upgrades: Lecture 4",
+                        "arweaveId": "GDuvRhLtxktMbx0ThUEXfE2LgJPHKZeTy6HcEGFYpj4",
+                        "createdAt": 1706891483370,
+                        "post_preview": "The Other EIPs and What Was left Out",
+                        "subtitle": "The Other EIPs and What Was left Out",
+                        "id": "vCcvtloQeSGni7F6w0x6",
+                        "categories": [
+                            "ethereum",
+                            "lectures/seminars",
+                            "courses"
+                        ],
+                        "slug": "dencun-4",
+                        "cover_img": {
+                            "img": {
+                                "src": "https://storage.googleapis.com/papyrus_images/98eb725d260c3e88e2e326acc251a5fc.png",
+                                "width": 800,
+                                "height": 457
+                            },
+                            "isHero": true,
+                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1ElEQVR4nMWUz08TQRTHpyzrMoxvmJ2d/tjabWlrC9XSmlKJQKCFhFK0F9KYNEKIB0tSggYTEgQxGG3iCYMBL1z4BzxoPHA1xsSLGowmJt5MTDSaeMYDxmxXK2K51F+bPbzT+7zvfN/3IfUvf+hfA4QQVsG5xrn2a10/gHONUooQYoxxrhHSSIjCucYYUxQFAOpj/AAAgGEY6XTa5XIBkHCoM3w4CdDkdDqj0WggEKCUWgyu8t0tODd/a8R9AUIIm83W29tbLpftdjtQyKTOZQemAKjP55uZuZjJZCRJsh6QUtA0UVEMXFVlDEBN0QDEpNcEcK5hjMPhcKFQqChoSsSGE7FhAOJwOPL5fDQaJYSoqsoYO+RuJQRTSt2GF4D2xHytHqeModWIUNrMGKv9RJXRqK7rQgjGGKUAFKuqOZphGA6Hg6tcwSg3NLe8+LE9lF67fevp40dXxzsWznRurQ5cKJwtX/owOrKo4AZNEzUUyLKcSCSmp6d9Pj+yoRPJ0ZHB85KMGFPn5+e7urpkWWHqwbnSw9Wlz+s3n21/2Xn35M6rtdTqVM/O/VMPVpZuLGwvX34fDMQJHKj68RMgFouVSiXD8GIsp7rHMv2TnKuSJGWzWa/XSylTMDqdu35t5u3mvRdbL58PdR95s5Hb2Rx7vX4ynfQXx++uXPnUFjqOiVwVsTcHLpfLchIoJqSxuqbWCjHWIoTd54lEIu3BYAChhmjYk+8Ptfl1JElu3XM00s9YS20PTNPc7omJCV3XCcHHOga7EjlCsMfjKRaLyWQSY1xhM0qbMMYAYLcLTCiyNROgQmiUUUwa980BY8zpdM7OzppbRCHdO5FJTTJmatrY2Mjn8wghS5wV7G+Z4KpdVGttt701FOi63tfXZwXNZ0RC/jgAEULE4/FgMFhfmPeuafVUADRVl0FRFELI756KPcfOVPy9oxBmbuvo/j/O9R8HfAUcu76lYH+M6AAAAABJRU5ErkJggg=="
+                        },
+                        "updatedAt": 1716299125021,
+                        "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                        "authors": [
+                            "lksePJrttznjuvAaHcJB",
+                            "fWPGXCZqvytnrKRnTh0w"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "fWPGXCZqvytnrKRnTh0w",
+                                "authorName": "Clinamenic LLC",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/1a93607da0f2d9d52a92b66fc5723fb5",
+                                "social": {
+                                    "twitter": "clinamenic",
+                                    "github": "clinamenic"
+                                },
+                                "wallet_address": "0xeC364F4f25aF9022353AA5dC4bDACDE143F6F327",
+                                "lowercase_wallet_address": "0xec364f4f25af9022353aa5dc4bdacde143f6f327"
+                            },
+                            {
+                                "id": "lksePJrttznjuvAaHcJB",
+                                "authorName": "Education DAO",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                                "social": {
+                                    "twitter": "education__dao"
+                                },
+                                "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                                "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467"
+                            }
+                        ]
+                    },
+                    {
+                        "createdAt": 1712699645820,
+                        "post_preview": "Bitcoin nasıl doğdu?21. yüzyılın en çarpıcı gelişmelerinden biri Bitcoin'in ortaya çıkışı olmuştur. Finans alanında yeni bir vizyon yaratan ve pek ço...",
+                        "publishedAt": 1715714776393,
+                        "subtitle": "Bitcoin ve Blokzincirler",
+                        "published": true,
+                        "id": "bgBx8BIhupWMr2ZUota7",
+                        "title": "Finans Alanında Yeni Bir Vizyon",
+                        "arweaveId": "H9hoYDYlyVNoTi8kJb8A0ZCxNoVZAj-xMkXCdMgSHSo",
+                        "slug": "finans-alaninda-yeni-bir-vizyon",
+                        "updatedAt": 1715714775235,
+                        "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                        "authors": [
+                            "o8l8b8TWGqnqll6UXBDD"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "o8l8b8TWGqnqll6UXBDD",
+                                "wallet_address": "0x22B9D210d9B662eC981C2AC3a080d9423180008F",
+                                "lowercase_wallet_address": "0x22b9d210d9b662ec981c2ac3a080d9423180008f"
+                            }
+                        ]
+                    },
+                    {
+                        "publishedAt": 1711324800000,
+                        "published": true,
+                        "title": "Understanding Ethereum Network Upgrades: Lecture 3",
+                        "arweaveId": "uTvUdwnzlXd7MEmLRkkdCe7VC_Nv_ts-d0sYR6AFtAQ",
+                        "createdAt": 1706891002846,
+                        "post_preview": "EIP-4844: Proto-Danksharding",
+                        "subtitle": "EIP-4844: Proto-Danksharding",
+                        "id": "VBhXnqH5nBMSQYeC7nz4",
+                        "categories": [
+                            "ethereum",
+                            "lectures/seminars",
+                            "courses"
+                        ],
+                        "slug": "dencun-3",
+                        "cover_img": {
+                            "img": {
+                                "src": "https://storage.googleapis.com/papyrus_images/a3c0fb6d7d0e77aa3c8ba59515b4156f.png",
+                                "width": 800,
+                                "height": 457
+                            },
+                            "isHero": true,
+                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1ElEQVR4nMWUz08TQRTHpyzrMoxvmJ2d/tjabWlrC9XSmlKJQKCFhFK0F9KYNEKIB0tSggYTEgQxGG3iCYMBL1z4BzxoPHA1xsSLGowmJt5MTDSaeMYDxmxXK2K51F+bPbzT+7zvfN/3IfUvf+hfA4QQVsG5xrn2a10/gHONUooQYoxxrhHSSIjCucYYUxQFAOpj/AAAgGEY6XTa5XIBkHCoM3w4CdDkdDqj0WggEKCUWgyu8t0tODd/a8R9AUIIm83W29tbLpftdjtQyKTOZQemAKjP55uZuZjJZCRJsh6QUtA0UVEMXFVlDEBN0QDEpNcEcK5hjMPhcKFQqChoSsSGE7FhAOJwOPL5fDQaJYSoqsoYO+RuJQRTSt2GF4D2xHytHqeModWIUNrMGKv9RJXRqK7rQgjGGKUAFKuqOZphGA6Hg6tcwSg3NLe8+LE9lF67fevp40dXxzsWznRurQ5cKJwtX/owOrKo4AZNEzUUyLKcSCSmp6d9Pj+yoRPJ0ZHB85KMGFPn5+e7urpkWWHqwbnSw9Wlz+s3n21/2Xn35M6rtdTqVM/O/VMPVpZuLGwvX34fDMQJHKj68RMgFouVSiXD8GIsp7rHMv2TnKuSJGWzWa/XSylTMDqdu35t5u3mvRdbL58PdR95s5Hb2Rx7vX4ynfQXx++uXPnUFjqOiVwVsTcHLpfLchIoJqSxuqbWCjHWIoTd54lEIu3BYAChhmjYk+8Ptfl1JElu3XM00s9YS20PTNPc7omJCV3XCcHHOga7EjlCsMfjKRaLyWQSY1xhM0qbMMYAYLcLTCiyNROgQmiUUUwa980BY8zpdM7OzppbRCHdO5FJTTJmatrY2Mjn8wghS5wV7G+Z4KpdVGttt701FOi63tfXZwXNZ0RC/jgAEULE4/FgMFhfmPeuafVUADRVl0FRFELI756KPcfOVPy9oxBmbuvo/j/O9R8HfAUcu76lYH+M6AAAAABJRU5ErkJggg=="
+                        },
+                        "updatedAt": 1711386373654,
+                        "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                        "authors": [
+                            "lksePJrttznjuvAaHcJB",
+                            "fWPGXCZqvytnrKRnTh0w"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "fWPGXCZqvytnrKRnTh0w",
+                                "authorName": "Clinamenic LLC",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/1a93607da0f2d9d52a92b66fc5723fb5",
+                                "social": {
+                                    "twitter": "clinamenic",
+                                    "github": "clinamenic"
+                                },
+                                "wallet_address": "0xeC364F4f25aF9022353AA5dC4bDACDE143F6F327",
+                                "lowercase_wallet_address": "0xec364f4f25af9022353aa5dc4bdacde143f6f327"
+                            },
+                            {
+                                "id": "lksePJrttznjuvAaHcJB",
+                                "authorName": "Education DAO",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                                "social": {
+                                    "twitter": "education__dao"
+                                },
+                                "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                                "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467"
+                            }
+                        ]
+                    },
+                    {
+                        "publishedAt": 1710460800000,
+                        "published": true,
+                        "title": "Understanding Ethereum Network Upgrades: Lecture 2",
+                        "arweaveId": "URvMWFn7LZ7cjIZsp69KRu-diKT7-KO_YO2h-sKSd98",
+                        "createdAt": 1706019081439,
+                        "post_preview": "The Ethereum Improvement Proposal (EIP) and ERC Process.",
+                        "subtitle": "The Ethereum Improvement Proposal (EIP) and ERC Process",
+                        "id": "dDQiQr61cllFF4yR0C3f",
+                        "categories": [
+                            "ethereum",
+                            "lectures/seminars",
+                            "courses"
+                        ],
+                        "slug": "dencun-2",
+                        "cover_img": {
+                            "img": {
+                                "src": "https://storage.googleapis.com/papyrus_images/1315e6db68453892a8644dc7ea548ff0.png",
+                                "width": 800,
+                                "height": 457
+                            },
+                            "isHero": true,
+                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1ElEQVR4nMWUz08TQRTHpyzrMoxvmJ2d/tjabWlrC9XSmlKJQKCFhFK0F9KYNEKIB0tSggYTEgQxGG3iCYMBL1z4BzxoPHA1xsSLGowmJt5MTDSaeMYDxmxXK2K51F+bPbzT+7zvfN/3IfUvf+hfA4QQVsG5xrn2a10/gHONUooQYoxxrhHSSIjCucYYUxQFAOpj/AAAgGEY6XTa5XIBkHCoM3w4CdDkdDqj0WggEKCUWgyu8t0tODd/a8R9AUIIm83W29tbLpftdjtQyKTOZQemAKjP55uZuZjJZCRJsh6QUtA0UVEMXFVlDEBN0QDEpNcEcK5hjMPhcKFQqChoSsSGE7FhAOJwOPL5fDQaJYSoqsoYO+RuJQRTSt2GF4D2xHytHqeModWIUNrMGKv9RJXRqK7rQgjGGKUAFKuqOZphGA6Hg6tcwSg3NLe8+LE9lF67fevp40dXxzsWznRurQ5cKJwtX/owOrKo4AZNEzUUyLKcSCSmp6d9Pj+yoRPJ0ZHB85KMGFPn5+e7urpkWWHqwbnSw9Wlz+s3n21/2Xn35M6rtdTqVM/O/VMPVpZuLGwvX34fDMQJHKj68RMgFouVSiXD8GIsp7rHMv2TnKuSJGWzWa/XSylTMDqdu35t5u3mvRdbL58PdR95s5Hb2Rx7vX4ynfQXx++uXPnUFjqOiVwVsTcHLpfLchIoJqSxuqbWCjHWIoTd54lEIu3BYAChhmjYk+8Ptfl1JElu3XM00s9YS20PTNPc7omJCV3XCcHHOga7EjlCsMfjKRaLyWQSY1xhM0qbMMYAYLcLTCiyNROgQmiUUUwa980BY8zpdM7OzppbRCHdO5FJTTJmatrY2Mjn8wghS5wV7G+Z4KpdVGttt701FOi63tfXZwXNZ0RC/jgAEULE4/FgMFhfmPeuafVUADRVl0FRFELI756KPcfOVPy9oxBmbuvo/j/O9R8HfAUcu76lYH+M6AAAAABJRU5ErkJggg=="
+                        },
+                        "updatedAt": 1710510886862,
+                        "authors": [
+                            "lksePJrttznjuvAaHcJB",
+                            "fWPGXCZqvytnrKRnTh0w"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "fWPGXCZqvytnrKRnTh0w",
+                                "authorName": "Clinamenic LLC",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/1a93607da0f2d9d52a92b66fc5723fb5",
+                                "social": {
+                                    "twitter": "clinamenic",
+                                    "github": "clinamenic"
+                                },
+                                "wallet_address": "0xeC364F4f25aF9022353AA5dC4bDACDE143F6F327",
+                                "lowercase_wallet_address": "0xec364f4f25af9022353aa5dc4bdacde143f6f327"
+                            },
+                            {
+                                "id": "lksePJrttznjuvAaHcJB",
+                                "authorName": "Education DAO",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                                "social": {
+                                    "twitter": "education__dao"
+                                },
+                                "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                                "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467"
+                            }
+                        ]
+                    },
+                    {
+                        "publishedAt": 1709424000000,
+                        "published": true,
+                        "title": "Understanding Ethereum Network Upgrades: Lecture 1",
+                        "arweaveId": "eNI9JR4hU_B9uadgRqbLKgQzUTzN24WSe8Q940wAkyM",
+                        "highlightsChain": "optimism",
+                        "createdAt": 1705673566884,
+                        "post_preview": "Core Dev Overview - All Core Devs, Ethereum R&D, EthMagicians, EthCatHerders, and Coordination Calls",
+                        "subtitle": "Core Dev Overview - All Core Devs, Ethereum R&D, EthMagicians, EthCatHerders, and Coordination Calls",
+                        "id": "HTgvn0pUpOxGhYXzBmvC",
+                        "categories": [
+                            "ethereum",
+                            "lectures/seminars",
+                            "courses"
+                        ],
+                        "slug": "dencun-1",
+                        "cover_img": {
+                            "img": {
+                                "src": "https://storage.googleapis.com/papyrus_images/50773c65be62bf7002d5c51cea6f474d.png",
+                                "width": 800,
+                                "height": 457
+                            },
+                            "isHero": true,
+                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1ElEQVR4nMWUz08TQRTHpyzrMoxvmJ2d/tjabWlrC9XSmlKJQKCFhFK0F9KYNEKIB0tSggYTEgQxGG3iCYMBL1z4BzxoPHA1xsSLGowmJt5MTDSaeMYDxmxXK2K51F+bPbzT+7zvfN/3IfUvf+hfA4QQVsG5xrn2a10/gHONUooQYoxxrhHSSIjCucYYUxQFAOpj/AAAgGEY6XTa5XIBkHCoM3w4CdDkdDqj0WggEKCUWgyu8t0tODd/a8R9AUIIm83W29tbLpftdjtQyKTOZQemAKjP55uZuZjJZCRJsh6QUtA0UVEMXFVlDEBN0QDEpNcEcK5hjMPhcKFQqChoSsSGE7FhAOJwOPL5fDQaJYSoqsoYO+RuJQRTSt2GF4D2xHytHqeModWIUNrMGKv9RJXRqK7rQgjGGKUAFKuqOZphGA6Hg6tcwSg3NLe8+LE9lF67fevp40dXxzsWznRurQ5cKJwtX/owOrKo4AZNEzUUyLKcSCSmp6d9Pj+yoRPJ0ZHB85KMGFPn5+e7urpkWWHqwbnSw9Wlz+s3n21/2Xn35M6rtdTqVM/O/VMPVpZuLGwvX34fDMQJHKj68RMgFouVSiXD8GIsp7rHMv2TnKuSJGWzWa/XSylTMDqdu35t5u3mvRdbL58PdR95s5Hb2Rx7vX4ynfQXx++uXPnUFjqOiVwVsTcHLpfLchIoJqSxuqbWCjHWIoTd54lEIu3BYAChhmjYk+8Ptfl1JElu3XM00s9YS20PTNPc7omJCV3XCcHHOga7EjlCsMfjKRaLyWQSY1xhM0qbMMYAYLcLTCiyNROgQmiUUUwa980BY8zpdM7OzppbRCHdO5FJTTJmatrY2Mjn8wghS5wV7G+Z4KpdVGttt701FOi63tfXZwXNZ0RC/jgAEULE4/FgMFhfmPeuafVUADRVl0FRFELI756KPcfOVPy9oxBmbuvo/j/O9R8HfAUcu76lYH+M6AAAAABJRU5ErkJggg=="
+                        },
+                        "updatedAt": 1709474142515,
+                        "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                        "authors": [
+                            "lksePJrttznjuvAaHcJB",
+                            "fWPGXCZqvytnrKRnTh0w"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "fWPGXCZqvytnrKRnTh0w",
+                                "authorName": "Clinamenic LLC",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/1a93607da0f2d9d52a92b66fc5723fb5",
+                                "social": {
+                                    "twitter": "clinamenic",
+                                    "github": "clinamenic"
+                                },
+                                "wallet_address": "0xeC364F4f25aF9022353AA5dC4bDACDE143F6F327",
+                                "lowercase_wallet_address": "0xec364f4f25af9022353aa5dc4bdacde143f6f327"
+                            },
+                            {
+                                "id": "lksePJrttznjuvAaHcJB",
+                                "authorName": "Education DAO",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                                "social": {
+                                    "twitter": "education__dao"
+                                },
+                                "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                                "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467"
+                            }
+                        ]
+                    },
+                    {
+                        "highlightsSupply": "1000",
+                        "publishedAt": 1709251200000,
+                        "published": true,
+                        "title": "Understanding Ethereum Network Upgrades: Lecture 0",
+                        "arweaveId": "W3JaOJ42us47RxDEV00LXPNe7gG35H7bke6h4jPfjJc",
+                        "createdAt": 1706891996588,
+                        "post_preview": "Orientation and Course Information",
+                        "subtitle": "Orientation and Course Information",
+                        "id": "taMXhzTHRTb4qMsZkXKD",
+                        "categories": [
+                            "ethereum",
+                            "lectures/seminars",
+                            "courses"
+                        ],
+                        "slug": "dencun-0",
+                        "cover_img": {
+                            "img": {
+                                "src": "https://storage.googleapis.com/papyrus_images/d2f73138701b149bd2e7905ed5a090a2.png",
+                                "width": 800,
+                                "height": 457
+                            },
+                            "isHero": true,
+                            "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAIAAAC1qksFAAAACXBIWXMAAAsTAAALEwEAmpwYAAAC1ElEQVR4nMWUz08TQRTHpyzrMoxvmJ2d/tjabWlrC9XSmlKJQKCFhFK0F9KYNEKIB0tSggYTEgQxGG3iCYMBL1z4BzxoPHA1xsSLGowmJt5MTDSaeMYDxmxXK2K51F+bPbzT+7zvfN/3IfUvf+hfA4QQVsG5xrn2a10/gHONUooQYoxxrhHSSIjCucYYUxQFAOpj/AAAgGEY6XTa5XIBkHCoM3w4CdDkdDqj0WggEKCUWgyu8t0tODd/a8R9AUIIm83W29tbLpftdjtQyKTOZQemAKjP55uZuZjJZCRJsh6QUtA0UVEMXFVlDEBN0QDEpNcEcK5hjMPhcKFQqChoSsSGE7FhAOJwOPL5fDQaJYSoqsoYO+RuJQRTSt2GF4D2xHytHqeModWIUNrMGKv9RJXRqK7rQgjGGKUAFKuqOZphGA6Hg6tcwSg3NLe8+LE9lF67fevp40dXxzsWznRurQ5cKJwtX/owOrKo4AZNEzUUyLKcSCSmp6d9Pj+yoRPJ0ZHB85KMGFPn5+e7urpkWWHqwbnSw9Wlz+s3n21/2Xn35M6rtdTqVM/O/VMPVpZuLGwvX34fDMQJHKj68RMgFouVSiXD8GIsp7rHMv2TnKuSJGWzWa/XSylTMDqdu35t5u3mvRdbL58PdR95s5Hb2Rx7vX4ynfQXx++uXPnUFjqOiVwVsTcHLpfLchIoJqSxuqbWCjHWIoTd54lEIu3BYAChhmjYk+8Ptfl1JElu3XM00s9YS20PTNPc7omJCV3XCcHHOga7EjlCsMfjKRaLyWQSY1xhM0qbMMYAYLcLTCiyNROgQmiUUUwa980BY8zpdM7OzppbRCHdO5FJTTJmatrY2Mjn8wghS5wV7G+Z4KpdVGttt701FOi63tfXZwXNZ0RC/jgAEULE4/FgMFhfmPeuafVUADRVl0FRFELI756KPcfOVPy9oxBmbuvo/j/O9R8HfAUcu76lYH+M6AAAAABJRU5ErkJggg=="
+                        },
+                        "updatedAt": 1709315480972,
+                        "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                        "authors": [
+                            "lksePJrttznjuvAaHcJB",
+                            "fWPGXCZqvytnrKRnTh0w"
+                        ],
+                        "parentId": "lksePJrttznjuvAaHcJB",
+                        "staticHtml": "",
+                        "json": "",
+                        "isAfterGateTruncated": false,
+                        "authorDetails": [
+                            {
+                                "id": "fWPGXCZqvytnrKRnTh0w",
+                                "authorName": "Clinamenic LLC",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/1a93607da0f2d9d52a92b66fc5723fb5",
+                                "social": {
+                                    "twitter": "clinamenic",
+                                    "github": "clinamenic"
+                                },
+                                "wallet_address": "0xeC364F4f25aF9022353AA5dC4bDACDE143F6F327",
+                                "lowercase_wallet_address": "0xec364f4f25af9022353aa5dc4bdacde143f6f327"
+                            },
+                            {
+                                "id": "lksePJrttznjuvAaHcJB",
+                                "authorName": "Education DAO",
+                                "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                                "social": {
+                                    "twitter": "education__dao"
+                                },
+                                "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                                "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467"
+                            }
+                        ]
+                    }
+                ],
+                "pinnedPosts": [],
+                "latestNotes": null,
+                "postMetrics": null,
+                "revenueMetrics": null
+            },
+            "page": {
+                "highlights": [],
+                "postCollectors": {
+                    "total": 0,
+                    "records": []
+                },
+                "sidebarOpen": false,
+                "colorMode": "light",
+                "searchText": "",
+                "currentNoteId": "",
+                "editor": "WYSIWYG",
+                "fullscreenEditor": false,
+                "loading": false,
+                "bannerToasts": [],
+                "initialLoad": false
+            },
+            "blog": {
+                "initialLoad": false,
+                "blog": {
+                    "id": "jmwRZr54TXbo3W97ghh7",
+                    "createdAt": 1702049072187,
+                    "email_notifications": {
+                        "new_comment": true,
+                        "new_subscriber": true,
+                        "new_paid_subscriber": true
+                    },
+                    "reputation": "MEDIUM_LOW",
+                    "enable_subscribe_popup": true,
+                    "needToSetup": false,
+                    "lowercase_url": "@education-dao",
+                    "url": "@education-dao",
+                    "enable_subscribe_scroll": true,
+                    "logo_url": "https://storage.googleapis.com/papyrus_images/0d52faf4f06b6f12a70a766642132c91.png",
+                    "highlightsCost": 0.001,
+                    "highlightsSupply": "100",
+                    "social": {
+                        "twitter": "education__dao"
+                    },
+                    "highlightsChain": "optimism",
+                    "allPostsTheme": {
+                        "showCoverImg": false,
+                        "style": "sm",
+                        "showDate": true
+                    },
+                    "collectibleWalletAddress": "0xbB2aC298f247e1FB5Fc3c4Fa40A92462a7FAAB85",
+                    "links": [
+                        {
+                            "friendly_name": "Education DAO Website",
+                            "url": "https://www.educationdao.xyz"
+                        },
+                        {
+                            "friendly_name": "Discord",
+                            "url": "https://discord.gg/7heZVpqt9k"
+                        },
+                        {
+                            "friendly_name": "Farcaster",
+                            "url": "https://warpcast.com/educationdao"
+                        }
+                    ],
+                    "pinnedPostIds": [],
+                    "name": "COMPENDIUM",
+                    "custom_css": "",
+                    "summary": "Complete Objective Multi-Party Encyclopedic Neutral Decentralized Internet User Manual",
+                    "font_color": "#121212",
+                    "secondary_color": "#e68566",
+                    "primary_color": "#a798ef",
+                    "font": "Mono",
+                    "header_font": "Mono",
+                    "updatedAt": 1713285626997,
+                    "latestPostModifiedTs": 1716299125475,
+                    "user": {
+                        "wallet_address": "0x1526360946a692284e50c9E887F18e9b3E52E467",
+                        "createdAt": 1702049072160,
+                        "lowercase_wallet_address": "0x1526360946a692284e50c9e887f18e9b3e52e467",
+                        "id": "lksePJrttznjuvAaHcJB",
+                        "verified": true,
+                        "email": "admin@educationdao.xyz",
+                        "avatar_url": "https://storage.googleapis.com/papyrus_images/06440061e47971897caf7c8856688842",
+                        "social": {
+                            "twitter": "education__dao"
+                        },
+                        "authorName": "Education DAO",
+                        "nonce": "1apBj+KAZDj3Zi8+4UEobw=="
+                    }
+                },
+                "usersBlog": {
+                    "id": "",
+                    "name": "",
+                    "about": "",
+                    "url": "",
+                    "lowercase_url": "",
+                    "author_name": "",
+                    "user": {
+                        "id": "",
+                        "email": "",
+                        "password": "",
+                        "hasPassword": false,
+                        "createdAt": 1716831838283
+                    },
+                    "createdAt": 1716831838283
+                },
+                "blogIntroduction": null,
+                "communities": [],
+                "tokens": []
+            },
+            "user": {
+                "user": {
+                    "id": "",
+                    "email": "",
+                    "password": "",
+                    "hasPassword": false,
+                    "createdAt": 1716831838283
+                },
+                "currentTransactionHash": null
+            },
+            "comments": {
+                "comments": null,
+                "fcComments": null,
+                "initialLoad": false
+            },
+            "error": {
+                "error": {
+                    "msg": ""
+                },
+                "success": ""
+            },
+            "notifications": {
+                "notifications": []
+            },
+            "jobs": {
+                "emailImportJob": null,
+                "initialLoad": false
+            },
+            "gatingRuleGroups": {
+                "gatingRuleGroups": null,
+                "initialLoad": false
+            },
+            "memberships": {
+                "blogMemberships": [],
+                "userMemberships": [],
+                "upsellMemberships": [
+                    {
+                        "benefits": [
+                            "Receive our newsletter via email."
+                        ],
+                        "plans": [
+                            {
+                                "price": 0
+                            }
+                        ],
+                        "hasNFT": false,
+                        "name": "Free Membership",
+                        "isRecommended": true,
+                        "description": "Subscribe for free to get our newsletter in your inbox.",
+                        "id": "qsT3NoUjeERFD8WCLOGR",
+                        "blogId": "jmwRZr54TXbo3W97ghh7",
+                        "status": "ACTIVE"
+                    }
+                ],
+                "upsellMembershipsDiscounts": [],
+                "initialLoad": false
+            }
+        }
+    },
+    "__N_SSG": true
+}
