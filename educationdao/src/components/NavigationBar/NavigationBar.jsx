@@ -12,7 +12,7 @@ const NavigationBar = () => {
         <Link to="/about" className="text-white">About Us</Link>
         <Link to="/contribute" className="text-white">Work With Us</Link>
         <Link to="/compendium" className="text-white">Compendium</Link>
-        <Link to="/governance" className="text-white">Governance</Link>
+        {/* <Link to="/governance" className="text-white">Governance</Link> */}
       </div>
       
     </nav>
